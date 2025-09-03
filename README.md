@@ -10,7 +10,12 @@ Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de
 
 | Aulas | Resumos|
 |-------|--------|
-|Gravando Alterações no Repositório Local | [Resumos](https://web.dio.me/track/9bada25e-4784-4932-ba20-fbb4c1b71855).
+|Aula 1   | [Resumo]()|
+|Aula 2   | [Resumo]()|
+
+
+---------
+
 
 ```
 git init
